@@ -2,7 +2,7 @@
 안녕하세요 오인웅 입니다!!. 
 현재 개발자가 되기 위해 Spring-Boot, Node.js를 공부중입니다
 
-### 🎇Main Stack
+# 🎇Main Stack
 ## language
 - Java, JavaScript
 ## FrameWork
