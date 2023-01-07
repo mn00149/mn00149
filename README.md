@@ -7,6 +7,8 @@
 - Java, JavaScript
 ## FrameWork
 - Express, Spring Boot
+## DB
+- Mysql, MongoDB
 
 ### 📚학력 및 경력
 - 한밭대학교 전기공학과 졸업, 12.03 ~ 19.03
