@@ -10,7 +10,7 @@
 ## DB
 - Mysql, MongoDB
 ## 라이브러리
-Passport, 스프링시큐리티, excelJs, Mongoose, Jquery, JSP, EJS, Mybatis
+Passport, 스프링시큐리티, excelJs, Mongoose, Jquery, JSP, EJS, Mybatis, Node.js
 
 ### 📚학력 및 경력
 - 한밭대학교 전기공학과 졸업, 12.03 ~ 19.03
