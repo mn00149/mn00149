@@ -16,6 +16,8 @@ Passport, 스프링시큐리티, excelJs, Mongoose, Jquery, JSP, EJS, Mybatis, N
 - 한밭대학교 전기공학과 졸업, 12.03 ~ 19.03
 - 히타치하이테크코리아(하드웨어 엔지니어), 19.10 ~ 21.04
 
+
 ### 교육
+멀티캠퍼스
 ### 📧Contact
 ohinung@gmail.com
